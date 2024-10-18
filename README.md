@@ -1,6 +1,6 @@
 # Pandemic Simulation in ThreeJS
 
-![Pandemic Simulation Banner](https://janarosmonaliev.github.io/pandemic-simulation/src/images/research-simulations-banner.png)
+![Pandemic Simulation Banner](https://janarosmonaliev.github.io/pandemic-simulation/src/images/banner.png)
 
 This is a final project for CSE487 course under StonyBrook University curriculum. The project aims to show different tendencies of how pandemics spread and allows the user to directly affect the course of events in this city populated with synthetic blobs. It was build using [ThreeJS](https://threejs.org) and bundled with [Webpack](https://webpack.js.org).
 
