@@ -20,7 +20,7 @@ Before you jump into the demo, you must be familiar with the controls and know h
 
 Now, you can go ahead and play around with the simulation.
 
-## [Live Demo](https://janarosmonaliev.github.io/pandemic-simulation/)
+## [Live Demo](https://zapneel1.github.io/pandemic-simulation/)
 
 ## Implementation
 
@@ -32,7 +32,7 @@ One day is counted in terms of blobs' two way travel from home to work. So, on e
 
 The algorithm assigns the blob with two random houses. Since the city's structure is fairly simple, the graph path is generated empirically, using building's district index and position within. Using complex algorithms like Djikstra would have overcomplicated things, e.g. a 5x5 district city with 4 buildings within each would need a graph with 84 nodes and 94 edges!
 
-![Image of a generated city graph in 3D space](https://janarosmonaliev.github.io/pandemic-simulation/src/images/progress-graphs.png)
+![Image of a generated city graph in 3D space](https://zapneel1.github.io/pandemic-simulation/src/images/progress-graphs.png)
 
 ### Loading GLTF objects, applying textures
 
@@ -68,9 +68,7 @@ This project was bundled with Webpack. Scripts and config files are included bel
 
 ## Acknowledgments
 
-- [Alex Kuhn](http://www.alexckuhn.com) - my research project supervisor.
 - [That French Game Dev](https://thatfrenchgamedev.com/) - learned a lot from his city generation algorithm he wrote back in 2014.
-- [Jihoon Ryoo](https://sites.google.com/site/jihoonryoo/) - learned a lot about graph-related algorithms from his CSE373 course.
 
 ## License
 
